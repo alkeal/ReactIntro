@@ -8,7 +8,7 @@ function App() {
   //const Name = (props) => {
 
   // return (
-//<h2> Jag heter {props.name} </h2>
+//<h2> Jag heter s{props.name} </h2>
   // )
   // }
 
